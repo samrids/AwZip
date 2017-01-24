@@ -4,7 +4,8 @@ How to use program.
 
 
  d:\AwZip.exe -h -z -u zip dest
-
+ 
+ 
  when
 
   -h    :Show help.
@@ -16,6 +17,7 @@ How to use program.
    zip  :Zip file
 
    dest :Destination direcotry.
+
 
 
  Sample.
