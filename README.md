@@ -3,7 +3,8 @@
 How to use program.
 
  d:\AwZip.exe -h -z -u zip dest
- when
+  when
+  
   -h    :Show help.
   -z    :Zip file or directory.
   -u    :Unzip file.
