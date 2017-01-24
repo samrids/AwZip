@@ -32,8 +32,8 @@ How to use program.
 
 
  2.Unzip file.
-
-   d:\AwZip.exe -u c:\temp\example.zip c:\temp\example
+       
+       d:\AwZip.exe -u c:\temp\example.zip c:\temp\example
 
  3.Show help.
 
